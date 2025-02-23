@@ -16,3 +16,4 @@ Swagger documentation is available at http://localhost:8000/swagger/
 
 Admin panel is available at http://localhost:8000/admin/
 
+Use admin panel to add management permissions for users.
